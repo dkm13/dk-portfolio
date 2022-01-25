@@ -697,7 +697,7 @@ footer p {
     outline: none;
     border: 4px solid white !important;
   }
-.bx-text{
+.bx-text a{
   outline: none;
   border: 4px solid red;
 }
