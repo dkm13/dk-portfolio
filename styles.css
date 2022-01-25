@@ -697,6 +697,10 @@ footer p {
     outline: none;
     border: 4px solid white !important;
   }
+.bx-text{
+  outline: none;
+  border: 4px solid red;
+}
 }
 @media screen and (max-width: 559px) {
   .services {
@@ -719,6 +723,7 @@ footer p {
     font-family: sans-serif;
     padding-top: 10px;
   }
+  
 }
 @media screen and (max-width: 412px) {
   nav ul li:hover::after {
