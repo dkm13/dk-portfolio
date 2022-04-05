@@ -116,6 +116,7 @@ function allDisplay() {
   document.getElementById("web4").style.display = "block";
   document.getElementById("web5").style.display = "block";
   document.getElementById("web6").style.display = "block";
+  document.getElementById("web7").style.display = "block";
   document.getElementById("app1").style.display = "block";
   document.getElementById("app2").style.display = "block";
   document.getElementById("game1").style.display = "block";
